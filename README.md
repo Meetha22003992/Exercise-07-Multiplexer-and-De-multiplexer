@@ -63,6 +63,7 @@ STEP 5:
 After completing program , we have to end program by using endmodule command which is used in verilog
 
 ### PROGRAM 
+```
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Meetha Prabhu
@@ -96,6 +97,7 @@ and(y0,s0bar,s1bar,i);
 endmodule
 
 */
+```
 ### RTL LOGIC  
 
 MULTIPLEXER:
